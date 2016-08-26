@@ -8,5 +8,6 @@
 		name: "rock",
 		price: 3.09,
 		description: "hard and round",
+		canPurchase: true
 	}
 })();
